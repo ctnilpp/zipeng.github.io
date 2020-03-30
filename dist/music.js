@@ -4,29 +4,23 @@ const ap = new APlayer({
     autoplay: true,
     
     audio: [
-    {
+     {
+        name: '约束の花',
+        artist: '川井憲次',
+        url: 'http://s128.xiami.net/485/57485/2103560530/1802140862_1519617958072.mp3?ccode=xiami__&expire=86400&duration=193&psid=087c0e242ff0f7d6c56551f69eff3524&ups_client_netip=null&ups_ts=1585607325&ups_userid=0&utid=&vid=1802140862&fn=1802140862_1519617958072.mp3&vkey=Bb083bc618ebe26cb897421f93ed98580',
+        cover: 'https://pic.xiami.net/images/album/img66/450266/4502661519450266.jpg?x-oss-process=image/resize,limit_0,m_fill,s_144/quality,q_80/format,jpg',
+      },
+     {
+        name: '孤独な巡礼',
+        artist: '川井憲次',
+        url: 'http://music.163.com/song/media/outer/url?id=448065.mp3',
+        cover: 'http://p1.music.126.net/U0Tf2ESHBauv2F9t1PgEZA==/109951163339713541.jpg?param=130y130',
+      },
+      {
         name: 'symphony',
         artist: 'Clean Bandit / Zara Larsson',
         url: 'http://music.163.com/song/media/outer/url?id=466126510.mp3',
         cover: 'https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=1befae09be8f8c54e3d3c22902124ac8/060828381f30e9240c27f4d646086e061c95f752.jpg',
       },
-     {
-        name: '第五交响曲:第一乐章',
-        artist: '贝多芬',
-        url: 'http://music.163.com/song/media/outer/url?id=435552796.mp3',
-        cover: 'https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=f36c2d4623381f309e198aaf913a2b35/ca1349540923dd543b0db816da09b3de9c824855.jpg',
-      },
-      {
-        name: '约束の花',
-        artist: '川井憲次',
-        url: 'http://music.163.com/song/media/outer/url?id=536570735.mp3',
-        cover: 'http://bmob-cdn-25196.b0.upaiyun.com/2019/04/26/fef62928405396d680ebde5341552485.jpg',
-      },
-      {
-        name: '生きていたんだよな',
-        artist: 'あいみょん',
-        url: 'http://www.ytmp3.cn/down/54305.mp3',
-        cover: 'http://bmob-cdn-25196.b0.upaiyun.com/2019/04/25/5d324c1c4037adf480ec45b5351dc306.jpg',
-      }
     ]
 });
