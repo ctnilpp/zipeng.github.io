@@ -7,7 +7,7 @@ const ap = new APlayer({
      {
         name: '约束の花',
         artist: '川井憲次',
-        url: 'http://s128.xiami.net/485/57485/2103560530/1802140862_1519617958072.mp3?ccode=xiami__&expire=86400&duration=193&psid=087c0e242ff0f7d6c56551f69eff3524&ups_client_netip=null&ups_ts=1585607325&ups_userid=0&utid=&vid=1802140862&fn=1802140862_1519617958072.mp3&vkey=Bb083bc618ebe26cb897421f93ed98580',
+        url: 'https://s128.xiami.net/485/57485/2103560530/1802140862_1519617958072.mp3?ccode=xiami__&expire=86400&duration=193&psid=6831fe4b8e8868b2bf979e0bda06ca3a&ups_client_netip=null&ups_ts=1585720249&ups_userid=0&utid=&vid=1802140862&fn=1802140862_1519617958072.mp3&vkey=Bb2922c795fbb7036aa9c2f1d72e2b6ab',
         cover: 'https://pic.xiami.net/images/album/img66/450266/4502661519450266.jpg?x-oss-process=image/resize,limit_0,m_fill,s_144/quality,q_80/format,jpg',
       },
      {
