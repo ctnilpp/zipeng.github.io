@@ -1765,7 +1765,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #f9ff08;
+  background: #700650;
 }
 .feed-link,
 .chat {
@@ -2958,14 +2958,14 @@ ul.breadcrumb li+li:last-child {
   }
 }
 body {
-  background: url("http://bmob-cdn-25196.b0.upaiyun.com/2019/04/27/e62196d4404c2a498051d98cceaa6358.jfif");
+  background: url("https://images.pexels.com/photos/3591558/pexels-photo-3591558.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
 .main-inner {
   background: #fff;
-  opacity: 0.9;
+  opacity: 0.95;
 }
 * {
   cursor: url("http://bmob-cdn-25196.b0.upaiyun.com/2019/04/27/aae8b83540bbda21801a660e771e21b2.ico"), auto !important;
